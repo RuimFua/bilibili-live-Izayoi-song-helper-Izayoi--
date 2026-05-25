@@ -1,6 +1,3 @@
-# bilibili-live-Izayoi-song-helper-Izayoi--
-【基于AI创作】Bilibili 直播点歌小帮手：一站式直播互动工具，集成歌单管理、快捷点歌、自定义弹幕互动与可缩放拖拽 UI。
-
 # 直播点歌小帮手 (Bilibili Live Song Helper)
 
 这是一个为 Bilibili 直播间开发的油猴脚本，旨在帮助用户高效地进行点歌、打 Call 以及快捷弹幕互动。
